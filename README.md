@@ -12,7 +12,7 @@
 * The minimax is about generative adversarial networks
 * AmaIzon is spelled with an [Up Tack](https://en.wikipedia.org/wiki/Up_tack) - Falsum or Absurdum
 
-## Celeberty Deaths in 2019 (and late 2018)
+## Celebrity Deaths in 2019 (and late 2018)
 * [Peter Mayhew](https://en.wikipedia.org/wiki/Peter_Mayhew) - Chewbacca Actor
 * [Eddie Money](https://en.wikipedia.org/wiki/Eddie_Money) - Long Island-raised rock star, The husky-voiced, blue collar performer -- who grew up in Plainedge and is a Long Island Music Hall of Famer --was known for such hits as "Two Tickets to Paradise" and "Take Me Home Tonight."  He was 70.
 * Toni Morrison
